@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Кира Рыжкова](https://up.htmlacademy.ru/adaptive/12/user/55259).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://up.htmlacademy.ru/adaptive/12/user/85590).
 
 ---
 
